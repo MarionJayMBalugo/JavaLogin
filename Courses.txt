@@ -1,0 +1,4 @@
+1 		 1 		 cct 		 29 		 tt
+2 		 1 		 bs 		 28 		 tt
+1 		 2 		 csd 		 29 		 tts
+2 		 2 		 est 		 29 		 tsd
